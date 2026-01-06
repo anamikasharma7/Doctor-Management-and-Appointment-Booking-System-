@@ -5,29 +5,20 @@ A full-stack MERN application that allows patients to book appointments with doc
 🚀 Tech Stack
 
 Frontend
-
 React.js
-
-Axios
-
-HTML5, CSS3
-
-Bootstrap / Tailwind (if used)
+HTML5
+CSS3
+Bootstrap / Tailwind 
 
 Backend
-
 Node.js
-
 Express.js
 
 Database
-
 MongoDB (Mongoose)
 
 Tools
-
 Git & GitHub
-
 Postman (API testing)
 
 ✨ Features
@@ -35,25 +26,18 @@ Postman (API testing)
 👤 User (Patient)
 
 User registration & login
-
 View available doctors
-
 Book doctor appointments
-
 View appointment status
 
 👨‍⚕️ Doctor
 
 Doctor login
-
 View assigned appointments
-
 Manage availability
 
 🛠️ Admin
 
 Add / update doctors
-
 View all users & appointments
-
 Manage system data
